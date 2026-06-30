@@ -80,5 +80,5 @@ The dashboard includes:
 **Vhuthuhawe Nekhavhambe**
 
 - LinkedIn: www.linkedin.com/in/vhuthuhawe-nekhavhambe
-- GitHub: https://github.com/vhuthuhaweNekhavhambe
+- GitHub: https://github.com/vhuthuNekhavhambe
 
